@@ -53,6 +53,6 @@ Here are some technologies that I love working with:
 
 Feel free to connect with me on social media:
 
-[LinkedIn https://www.linkedin.com/in/michael-shaw-clt?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app] | [Twitter](your-twitter-url) | [Website/Blog https://www.madezmedia.co/] madezmedia.co
+
 
 Thank you for visiting my profile! 🙌
