@@ -1,37 +1,46 @@
-# 👋 Hi there, I'm Mikey Shaw!
+<!-- madezmedia · github profile -->
 
-Welcome to my GitHub profile! I'm the founder of **EZ Influencer 360**, an AI-powered platform for creating digital influencers with music, voice, and video generation capabilities. We're revolutionizing content creation with cutting-edge AI technology. 🚀
+### `mikey shaw` _·_ ACMI Protocol Architect _·_ Founder, Mad EZ Media
 
----
+I build infrastructure for multi-agent AI teams.
 
-## ⚡ About Me
+The problem I'm solving right now: **shared memory for agent fleets.** Most agent setups today are five smart engines in five separate rooms — none of them know what the others did yesterday, none of them remember the conversation from last week. ACMI is the protocol that fixes that.
 
-- 🎯 I'm currently building **EZ Influencer 360** - a comprehensive AI influencer content factory that empowers creators to generate professional-quality music, videos, and voices
-- 🤖 I'm passionate about AI/ML integration, music production, and video generation technology
-- 💬 Ask me about anything related to AI influencer creation, web development, APIs, or e-commerce strategies!
-- 📫 How to reach me: [Email Me](mailto:your-email@example.com)
+[**`@madezmedia/acmi`**](https://www.npmjs.com/package/@madezmedia/acmi) — three keys per entity (Profile · Signals · Timeline). MIT. On npm. 31/31 conformance. Open source.
 
 ---
 
-## 🔧 Technologies & Tools
+### What I'm shipping
 
-Here are some technologies that I love working with:
+- **[ACMI](https://github.com/madezmedia/acmi)** — open agent-memory protocol · `npm install @madezmedia/acmi`
+- **[Mad EZ Media](https://www.madezmedia.com)** — the studio · we ship working AI-native systems for operator-led companies
+- **[Notes](https://www.madezmedia.com/blog)** — long-form on multi-agent infra, autonomous characters, the systems we operate
+- **[Portfolio](https://mikeyshaw.work)** — selected work · case studies · how I think
+- **EZ Influencer 360** — autonomous AI character platform · Folana lives here
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+### How I work
+
+- ChatGPT day one (Dec 2022). 934 conversations later I'm still here.
+- I run a small senior team plus a fleet of specialized agents, all coordinating through ACMI.
+- I write protocol specs and conformance suites, not pitch decks.
+- I publish the infrastructure publicly because that's the only credible way to claim infrastructure expertise.
+
+### Stack I trust
+
+`TypeScript` · `Next.js` · `Upstash Redis` · `Vercel` · `Anthropic` · `OpenAI` · `Vapi` · `Postiz` · `Vercel AI SDK`
+
+Lean: <$500/mo total burn across three live platforms. Capital efficiency is the brand.
+
+### Talk to the studio
+
+Three ways to start — chat with our AI sales agent (live on the homepage), call him directly, or book a 20-minute conversation with our CHEO Duane.
+
+→ **[madezmedia.com/bentley](https://www.madezmedia.com/bentley)** · `+1 (704) 901-1026` · [duane@madezmedia.com](mailto:duane@madezmedia.com)
+
+For protocol partnership, sponsorship, or contributing an ACMI adapter:
+
+→ [madezmediapartners@gmail.com](mailto:madezmediapartners@gmail.com) · [github.com/madezmedia/acmi/blob/main/CONTRIBUTING.md](https://github.com/madezmedia/acmi/blob/main/CONTRIBUTING.md)
 
 ---
 
-## 🎵 My Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madezmedia&show_icons=true&theme=radical)
-
----
-
-✨ Always building, always creating!
+<sub>Charlotte, NC · America/New_York · slot 2 of 3 open Q3 2026</sub>
